@@ -5,5 +5,8 @@ public class Hello {
 
         System.out.println("Learning new things everyday");
 
+        // all these makes me feel awesome
+        // great is thy faithfulness
+
     }
 }
