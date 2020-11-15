@@ -5,5 +5,7 @@ public class StillMerging {
 
         // Still learning git and github
 
+        // have to tell my friends to sign up for github
+
     }
 }
