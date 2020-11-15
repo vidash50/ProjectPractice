@@ -5,5 +5,10 @@ public class Hello {
 
         System.out.println("Learning new things everyday");
 
+        // all these makes me feel awesome
+        // great is thy faithfulness
+
+        System.out.println("this java test is making anxious");
+
     }
 }
